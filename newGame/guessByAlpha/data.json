@@ -1,0 +1,8 @@
+{
+    "alphabet": ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M", "N", "O", "P", "Q", "R", "S", "T", "U", "V", "W", "X", "Y", "Z"],
+  
+    "genre": ["Romance", "Drama", "Horror", "Sci-Fi", "Crime", "Thriller", "Comedy", "Musical", "Fantasy", "Action", "Psychological", "Adventure", "Documentry", "Biography", "Period", "Mystery"],
+  
+    "origin": ["Bollywood", "Hollywood", "Tamil", "Telugu", "Malayalam", "Spanish"]
+  }
+  
